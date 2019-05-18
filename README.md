@@ -5,12 +5,28 @@
 
 ### Dependencies used
 * express - https://expressjs.com/
+* mongoose - https://mongoosejs.com
+* express-jwt - https://github.com/auth0/express-jwt
+* lodash - https://lodash.com/
+* morgan - https://www.npmjs.com/package/morgan
+* cors - https://github.com/expressjs/cors
+* nodemon - https://nodemon.io/
+* jsonwebtoken - https://github.com/auth0/node-jsonwebtoken
+* body-parser - https://www.npmjs.com/package/body-parser
+* cookie-parser - https://www.npmjs.com/package/cookie-parser
+* dotenv - https://www.npmjs.com/package/dotenv
+* uuid - https://www.npmjs.com/package/uuid
+* joi - https://www.npmjs.com/package/joi
 
 ## Frontend
 * React
 * Bootstrap
 * Redux (optional. may be in the future)
 
+### Dependencies used
+* React.js  - https://reactjs.org/
+* React Router - https://reacttraining.com/react-router/web/guides/quick-start
+* Bootstrap - https://getbootstrap.com/
 
 ## API Architecture
 
