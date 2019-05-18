@@ -3,6 +3,8 @@
 * Express
 * MongoDB
 
+### Dependencies used
+* express - https://expressjs.com/
 
 ## Frontend
 * React
